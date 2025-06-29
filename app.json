@@ -21,8 +21,8 @@
     },
      "PREFIX": {
        "description": "Bot command prefix, (e.g, . , ! @ etc",
-      "value": "."
-      "required": true,
+      "value": ".",
+      "required": true
       
     },
       "MODE": {
@@ -40,7 +40,7 @@
 
     "OWNER_NUMBER": {
       "description": "put the owner number for bot.",
-      "value": "263714757857"
+      "value": "263714757857",
       "required": true
       
    },
@@ -59,4 +59,3 @@
      ],
   "stack": "heroku-24"
 }
-  
