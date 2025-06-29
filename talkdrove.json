@@ -10,7 +10,7 @@
     "SESSION_ID": {
       "description": "Must Start with 'malvin~'",
       "required": true,
-      "value": ""
+      "value": "malvin~pm1lARAQ#XOUvUmw3wUpYRZXXYPVCJFUFT8Z7gilHpMLgWr9QlcE"
     },
       "BOT_NAME": {
         "description": "write here your bot name.",
@@ -20,7 +20,7 @@
     "MODE": {
       "description": "Set private/public/inbox/groups",
       "required": false,
-      "value": "public"
+      "value": "private"
      },
    
     "PREFIX": {
@@ -37,7 +37,7 @@
     "OWNER_NUMBER": {
       "description": "Put only one Owner Number Here",
       "required": true,
-      "value": "263714757857"
+      "value": "923023766355"
     },
     
     "PRESENCE": {
