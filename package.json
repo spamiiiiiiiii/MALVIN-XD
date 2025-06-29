@@ -4,6 +4,7 @@
   "description": "A WhatsApp Bot Created By Malvin King",
   "main": "index.js",
   "scripts": {
+    "build": "echo 'Build completed - WhatsApp bot is ready to run'",
     "start": "pm2 start index.js --deep-monitoring --attach --name MALVIN-XD",
     "stop": "pm2 stop MALVIN-XD",
     "restart": "pm2 restart MALVIN-XD"
